@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "base": "C:\\code\\ts\\AsterinBook\\.superpowers\\change-0.1.1\\旧库兼容-1791597098960",
+  "oldLibrary": "C:\\code\\ts\\AsterinBook\\.superpowers\\native-verification\\2026-10-08T16-12-57.031Z",
+  "started": "2026-10-10T01:51:38.987Z",
+  "checks": [
+    "0.1.0 library opens in 0.1.1: four books and text, positions, bookmark, font settings retained",
+    "production WebView2: right/down keys, right-edge click, wheel down and next-page button enter next chapter first page",
+    "normal close/restart retains chapter-two position and new bookmark, preserves all old books/positions/bookmarks/preferences; reverse and whole-book boundaries stop"
+  ],
+  "status": "passed",
+  "completed": "2026-10-10T01:51:41.972Z"
+}

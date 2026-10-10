@@ -1,0 +1,15 @@
+{
+  "exe": "C:\\code\\ts\\AsterinBook\\.superpowers\\installer-verification\\程序 安装\\asterinbook.exe",
+  "pid": 32280,
+  "started": "2026-10-08T16:11:38.620Z",
+  "startupMs": 584,
+  "memory": {
+    "mainWorkingSetMiB": 28.8,
+    "mainPrivateMiB": 6.1,
+    "totalWorkingSetMiB": 404.2,
+    "totalPrivateMiB": 208.2,
+    "processes": 7
+  },
+  "secondExit": 0,
+  "status": "passed"
+}

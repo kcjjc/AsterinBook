@@ -1,0 +1,10 @@
+{
+  "installPath": "C:\\code\\ts\\AsterinBook\\.superpowers\\installer-verification\\程序 安装",
+  "dataRoot": "C:\\code\\ts\\AsterinBook\\.superpowers\\native-verification\\2026-10-08T16-12-57.031Z\\迁移后 数据",
+  "configDir": "C:\\Users\\16609\\AppData\\Roaming\\local.asterinbook.reader",
+  "dbSha256": "11D73639C21B387473455736141C21EF0CE9FB7F24E68342B52E261FC2AA4C43",
+  "status": "passed",
+  "upgradeExit": 0,
+  "uninstallExit": 0,
+  "reinstallExit": 0
+}

@@ -1,0 +1,16 @@
+{
+  "base": "C:\\code\\ts\\AsterinBook\\.superpowers\\native-verification\\2026-10-08T16-12-57.031Z",
+  "exe": "C:\\code\\ts\\AsterinBook\\src-tauri\\target\\debug\\examples\\native_smoke.exe",
+  "started": "2026-10-08T16:12:57.033Z",
+  "checks": [
+    "real WebView2 wheel up/down, edge click and direction-key page changes",
+    "real SQLite position/bookmark/preferences + full-window reader",
+    "ArrayBuffer source -> production Worker -> binary chunks -> SQLite commit",
+    "GBK source -> production Worker fallback -> exact normalized Chinese text after original removal",
+    "real migration retains source; deleted original TXT remains readable",
+    "close/restart preserves migrated path, four books, anchor, bookmark and font preference; Windows font enumeration",
+    "close freezes navigation while native Core is busy; pending latest position survives restart"
+  ],
+  "completed": "2026-10-08T16:13:01.990Z",
+  "status": "passed"
+}
